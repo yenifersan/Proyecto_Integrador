@@ -15,7 +15,7 @@
         <item
             android:id="@+id/nav_identy"
             android:icon="@drawable/ic_identy"
-            android:title="Contacto" />
+            android:title="Mi cuenta" />
         <item
             android:id="@+id/nav_favourite"
             android:icon="@drawable/ic_favourite"
